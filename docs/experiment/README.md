@@ -9,7 +9,7 @@ Verify the predicted density-dependent gravitational coefficient \(K(\rho)\).
 
 ## Experimental setup (screenshot)
 
-![Experimental setup](../../figures/8.png)
+![Experimental setup](../../figures/experimental_setup.png)
 
 ## Status
 Open for independent laboratory testing and collaboration.
