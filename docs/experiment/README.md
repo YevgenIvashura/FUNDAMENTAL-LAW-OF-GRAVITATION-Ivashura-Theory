@@ -1,4 +1,4 @@
-roposed experimental verification of the Ivashura Theory.
+Proposed experimental verification of the Ivashura Theory.
 
 ## Goal
 Verify the predicted density-dependent gravitational coefficient \(K(\rho)\).
